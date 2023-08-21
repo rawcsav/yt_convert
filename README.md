@@ -17,7 +17,7 @@ To run this script, you need to have the following Python libraries installed:
 3. Run the following command:
 
    ```bash
-   python youtube_downloader.py
+   python yt_convert.py
    ```
 
 4. Follow the on-screen prompts to download YouTube videos or MP3 files.
